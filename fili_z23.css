@@ -1,0 +1,45 @@
+p#pogrubione_filipiak
+{
+  font-size:33;
+  font-weight:900;
+  color:6495ED;
+}
+
+p#pochylone_filipiak
+{
+  font-style: italic;
+  font-size:38;
+  color:#DDA0DD;
+}
+
+p#index_gorny_filipiak
+{
+  vertical-align:super;
+  font-size:1.3cm;
+  color:#2E8B57;
+}
+
+p#index_dolny_filipiak
+{
+  vertical-align:sub;
+  font-size:2.1cm;
+  color:rgb(18%,94%,88%);
+}
+p#mono_filipiak
+{
+  font-size:43px;
+  color:#6A5ACD;
+}
+
+
+p#powiekszenie_filipiak
+{
+  font-size:29px;
+  color:#191970;
+}
+
+p#pomniejszenie_filipiak
+{
+  font-size:31px;
+  color:rgb(70%,63%,21%);
+}
